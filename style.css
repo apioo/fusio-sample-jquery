@@ -1,0 +1,18 @@
+
+.btn, .form-control {
+    border-radius:0;
+}
+
+.container {
+    margin-top:32px;
+    max-width:600px;
+    background-color:#eee;
+    padding:16px;
+}
+
+#response {
+    border-radius:0;
+    background-color:#ccc;
+    font-family:monospace;
+    white-space:pre;
+}
